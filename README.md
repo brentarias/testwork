@@ -9,3 +9,5 @@ We should have one.
 ## Continuous Integration?
 
 That too.
+
+## Uh-Oh! Conflict!
